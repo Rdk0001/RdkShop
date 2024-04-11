@@ -1,0 +1,116 @@
+
+
+.container {
+    background-color: gray;
+    color: #444242;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 800;
+    text-align: center;
+    border-color: azure;
+    
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    width: 15%;
+    height: 50%;
+    border-radius: 50px;
+    padding: 20px;
+    
+}
+
+
+
+.font-shop {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: #333;
+}
+
+.shop {
+    background-color: #9e0000;
+    color-scheme: #0011ff;
+    color: #333;
+    top: 25%;
+    border-radius: 130px;
+    border-color: aqua;
+    cursor: cell;
+    padding: 23px;
+    margin-top: 52px;
+    left: 20px;
+}
+
+.li {
+    list-style-type: none;
+}
+
+button.water {
+    cursor: cell;
+    color: #0011ff;
+    left: 45%;
+    background-color: aqua;
+    border-radius: 50px;
+    border-bottom: 50%;
+    padding: 20px;
+    margin-top: 1px;
+
+}
+
+button.bread {
+    cursor: cell;
+    color: #0011ff;
+    left: 45%;
+    background-color: aqua;
+    border-radius: 50px;
+    border-bottom: 50%;
+    padding: 20px;
+    margin-top: 1px;
+
+
+}
+
+a.eau {
+    cursor: cell;
+    color: #0011ff;
+    text-align: center;
+    text-decoration: #ff0000;
+    background-color: aqua;
+    border-radius: 50px;
+    border-bottom: 50%;
+    padding: 20px;
+    margin-top: 20px;
+    left: 20px;
+
+}
+
+a.pain {
+    left: 50%;;
+    left: 50%;
+    padding: 20px;
+    margin-top: 20px;
+    left: 20px;
+}
+
+a.closemnu {
+    cursor: cell;
+    color: #0011ff;
+    text-align: center;
+    text-decoration: #ff0000;
+    background-color: aqua;
+    border-radius: 50px;
+    border-bottom: 50%;
+    padding: 20px;
+    margin-top: 20px;
+    left: 20px;
+}
+
+.btn:hover {opacity: 1}
